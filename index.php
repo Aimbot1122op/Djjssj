@@ -4,7 +4,7 @@
 define('API_TOKEN', '7201734032:AAHxpW1VSvhWFkDCgHfG_KV_ucgkNE4hnNk');
 
 // ID of the group where messages will be forwarded
-define('GROUP_ID', '-4232388158');
+define('GROUP_ID', '-1002177775153');
 
 // List of admin user IDs
 $admin_ids = ['1344802584', '6657480603'];
